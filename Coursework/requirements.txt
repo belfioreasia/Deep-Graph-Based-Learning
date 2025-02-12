@@ -8,6 +8,7 @@ torch==2.2.2
 torch_geometric==2.5.2
 torchvision==0.17.2
 torchviz==0.0.2
+seaborn==0.13.2
 
 # conda env create -f environment.yml
 # conda env export > environment.yml
