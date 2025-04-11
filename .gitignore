@@ -1,1 +1,6 @@
-/project/
+.DS_Store
+predictions_fold_1.csv
+predictions_fold_2.csv
+predictions_fold_3.csv
+Project/code/data
+Project/code/MLP_submission.csv
